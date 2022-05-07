@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raj/Documents/experiments/cpp_tutorial/first_lib/main.cpp
+tools.hpp
+/home/raj/Documents/experiments/cpp_tutorial/first_lib/tools.hpp
+
+/home/raj/Documents/experiments/cpp_tutorial/first_lib/tools.hpp
+
