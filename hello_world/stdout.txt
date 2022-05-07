@@ -1,0 +1,2 @@
+Please input some number
+number = 9
